@@ -15,5 +15,6 @@ label> and all events leading up to it
 o event_category_lv1 o event_category_lv2 o event_category_lv3 o event_category_lv4
 5. Tobi session timestamp: the timestamp of the closest future Tobi session
 6. Tobi session label: the label of the closest future Tobi session
+
 The last event of a session is the padding: a fictitious event where the descriptor is the number of days until the Tobi interaction.\
 Thus, data is provided in long-format, i.e. multiple rows for each labelled data point, with extra properties on the columns.
