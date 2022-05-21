@@ -1,6 +1,6 @@
 # Vodafone Data Science Hackathon 2021
 
-This repository contains the submitted project notebook and workflow for Vodafone Data Science Hackathon 2021, organized by Bocconi University and Vodafone Italy (3rd place out of 40 teams). The goal of the challenge was to predict the reason for contact of customer interactions with Tobi, Vodafone's frontline digital assistant (text and voice chatbot), using a supervised classifier.\
+This repository contains the submitted project notebook and workflow for Vodafone Data Science Hackathon 2021, organized by Bocconi University and Vodafone Italy (3rd place out of 40 teams). The goal of the challenge was to predict the reason for contact of customer interactions with Tobi, Vodafone's frontline digital assistant (text and voice chatbot), using a supervised classifier.
 
 ## Data description
 
